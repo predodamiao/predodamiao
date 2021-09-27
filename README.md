@@ -8,10 +8,11 @@
 ## Hi there 👋
 
 - 🎓 IT Technician, Graduating in Bachelor of Information Systems
-- ❤️ Passionate about learning new technologies.
-- 💻 Main expertise in HTML, CSS and Java. Also know about JS and Git (Trying to improve) 
+- ❤️ Passionate about learning new technologies
+- 💻 Main expertise in HTML, CSS, Java and JavaScript. Also know about Node.js, React, React Native, Git, Docker  (Improving)
 - 📖 Learning about C#, DevOps and Python
-- 🚀 1 year of experience assisting teachers and students in e-courses to use and configure Moodle.
+- 📚 1 year of experience assisting teachers and students in e-courses to use and configure Moodle
+- 🚀 1 year of experience in development, maintenance and support of Java systems
 
 Other Info
 - ⚡ Bronze medal at the Brazilian Mathematics Olympiad in 2012 and 2014.
