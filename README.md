@@ -1,6 +1,6 @@
 # Pedro Henrique Damião
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/predodamiao/)](https://www.linkedin.com/in/predodamiao/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohenriquedamiao/)](https://www.linkedin.com/in/pedrohenriquedamiao/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pedrohenriquefcd@gmail.com)](mailto:pedrohenriquefcd@gmail.com)
 
 ## Hi there 👋
