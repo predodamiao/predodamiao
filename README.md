@@ -5,12 +5,8 @@
 
 ## Hi there 👋
 
-- 🎓 IT Technician and Bachelor of Information Systems
-- ❤️ Passionate about learning new things
-- 💻 Main knowledge in Typescript, Node.js, React.js, HTML, CSS, Jest and Supertest. I also know a little about cloud computing, Java and PHP
-- 📖 Learning about Software Architecture and Solutions
-- 📚 1 year of experience helping teachers and students in e-courses to use and configure Moodle
-- 🚀 2 year of experience in development, maintenance and support of web systems, from requirements to deploy
+As a Full Stack developer, I am passionate about creating innovative solutions that drive the digital world forward and that actually meet users needs. With more than 3 years of experience in software development, my career has been marked by several challenges and the opportunity to work on projects in the most varied areas of knowledge, including education, health, marketing and, currently, the financial market.
 
-Other Info
-- ⚡ Bronze medal at the Brazilian Mathematics Olympiad in 2012 and 2014.
+My journey in the world of computing began at the age of 14, when I started the Computer Technician course integrated into high school, and since then, I have dedicated myself to improving my skills in various areas, such as back-end development, software architecture, solutions architecture, microservices and messaging.
+
+I'm always looking for complex technical challenges that allow me to learn and grow. My approach is based on the constant search for software quality, teamwork and the ability to deliver high quality products. I firmly believe in the importance of collaborating with colleagues from different areas and teams to create innovative solutions that positively impact people's lives.
